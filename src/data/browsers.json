@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Mozilla Firefox",
+      "logo": "mozilla.png",
+      "description": "Mozilla Firefox is cool"
+    },
+    {
+      "name": "Google Chrome",
+      "logo": "chrome.png",
+      "description": "Google Chrome is cool I guess"
+    },
+    {
+      "name": "Microsoft Edge",
+      "logo": "edge.png",
+      "description": "Microsoft Edge is annoying"
+    }
+  ]
